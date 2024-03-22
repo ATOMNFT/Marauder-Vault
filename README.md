@@ -2,9 +2,7 @@
   A collection of Awesome resources for the <a href="https://flipperzero.one">CYD or Cheap Yellow Display</a> ESP32 with screen combo board.<br><br>
   <a href="#">
     <img src="https://img.shields.io/badge/CYD-ESP32?style=plastic&logo=esp32&logoColor=yellow&label=ESP32&labelColor=blue&color=white&cacheSeconds=60" alt="CYD" height=24>
-    <img src="https://img.shields.io/badge/Everything-Hack?style=plastic&logo=arduino&logoColor=green&label=Hack&labelColor=blue&color=white&cacheSeconds=60
+	<img src="https://img.shields.io/badge/Everything-Hack?style=plastic&logo=arduino&logoColor=green&label=Hack&labelColor=blue&color=white&cacheSeconds=60
 " alt="HackItAll" height=24>
-    <img src="https://img.shields.io/badge/By-ESP32-Powered?style=plastic&logo=arduino&logoColor=green&label=Powered%20By&labelColor=blue&color=white&cacheSeconds=60
-" alt="Powered by ESP32" height=24 title="Lurat is the name of my Flipper">
-  </a>
+	</a>
 </h3>
