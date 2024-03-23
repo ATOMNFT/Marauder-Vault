@@ -5,6 +5,9 @@
 <img src="M1.jpg"
      alt="M1"
      style="float: left; margin-right: 10px;" />
+<img src="M2.jpeg"
+     alt="M2"
+     style="float: left; margin-right: 10px;" />
 
 
 
