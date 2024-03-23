@@ -1,6 +1,7 @@
+### Checkout <a href=https://github.com/smoochiee/esp32-Marauder-mod-CYD>smoochiee's tut</a>  to learn how to use these custom boot screens.  
+
+
 ## Boot Screen Previews
-
-
 
 <img src="M1.jpg"
      alt="M1"
