@@ -3,7 +3,7 @@
 
 
 <img src="Boot Screens/M1.jpg"
-     alt="Markdown Monster icon"
+     alt="M1"
      style="float: left; margin-right: 10px;" />
 
 
