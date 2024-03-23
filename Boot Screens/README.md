@@ -1,10 +1,10 @@
 ## Boot Screen Previews
 
 
-![M1](Boot Screens/M1.jpg)
 
-
-
+<img src="Boot Screens/M1.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 
