@@ -1,7 +1,7 @@
 ## Boot Screen Previews
 
 
-![M1](Boot Screens/M1.jpg)
+![M1](/Boot Screens/M1.jpg)
 
 
 
