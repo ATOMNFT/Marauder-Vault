@@ -2,7 +2,7 @@
 
 
 
-<img src="Boot Screens/M1.jpg"
+<img src="/M1.jpg"
      alt="M1"
      style="float: left; margin-right: 10px;" />
 
