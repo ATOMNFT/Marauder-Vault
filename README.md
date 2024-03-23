@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/a_t_o_m_nft" target="blank"><img src="https://img.shields.io/twitter/follow/a_t_o_m_nft?logo=twitter&style=for-the-badge" alt="a_t_o_m_nft" /></a> </p>
 
+<b>A place to find Maraduer boot screens, icons and color tweaks!</b>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
