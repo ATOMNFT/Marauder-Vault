@@ -1,7 +1,7 @@
 ## Boot Screen Previews
 
 
-    <img src="Boot Screens/M1.jpg">
+<img src="Boot Screens/M1.jpg" alt="Italian Trulli">
     <img src="/M1.jpeg">
 	<img src="/M3.jpeg">
     <img src="/M4.jpeg">
