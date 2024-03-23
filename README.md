@@ -1,4 +1,4 @@
-<b>A place to find Maraduer boot screens, icons and color tweaks!</b>
+<b>A place to find Marauder boot screens, icons and color tweaks!</b>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
