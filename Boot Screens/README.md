@@ -1,17 +1,13 @@
-<b>Custom boot screens for wifi marauder</b>
-
-
-
-
 ## Boot Screen Previews
+
 <div class="row">
   <div class="column">
     <img src="Boot Screens/M1.jpg">
-    <img src="Boot Screens/M1.jpg">
-	<img src="Boot Screens/M3.jpg">
-    <img src="Boot Screens/M4.jpg">
-	<img src="Boot Screens/M5.jpg">
-    <img src="Boot Screens/M6.jpg">
+    <img src="Boot Screens/M1.jpeg">
+	<img src="Boot Screens/M3.jpeg">
+    <img src="Boot Screens/M4.jpeg">
+	<img src="Boot Screens/M5.jpeg">
+    <img src="Boot Screens/M6.jpeg">
   </div>
 
 
