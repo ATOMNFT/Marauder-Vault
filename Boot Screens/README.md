@@ -6,12 +6,12 @@
 ## Boot Screen Previews
 <div class="row">
   <div class="column">
-    <img src="BootScreens/M1.jpg">
-    <img src="BootScreens/M1.jpg">
-	<img src="BootScreens/M3.jpg">
-    <img src="BootScreensM4.jpg">
-	<img src="BootScreens/M5.jpg">
-    <img src="BootScreens/M6.jpg">
+    <img src="Boot Screens/M1.jpg">
+    <img src="Boot Screens/M1.jpg">
+	<img src="Boot Screens/M3.jpg">
+    <img src="Boot Screens/M4.jpg">
+	<img src="Boot Screens/M5.jpg">
+    <img src="Boot Screens/M6.jpg">
   </div>
 
 
