@@ -20,6 +20,12 @@
 <img src="M6.jpeg"
      alt="M6"
      style="float: left; margin-right: 10px;" />
+<img src="M7.jpeg"
+     alt="M7"
+     style="float: left; margin-right: 10px;" />
+<img src="M8.jpeg"
+     alt="M8"
+     style="float: left; margin-right: 10px;" />
 
 
 
