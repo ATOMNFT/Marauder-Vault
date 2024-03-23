@@ -1,5 +1,4 @@
-![Header](pictures/HeaderIMG.png)
-<h1 align="center">Maraduer vault</h1>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
