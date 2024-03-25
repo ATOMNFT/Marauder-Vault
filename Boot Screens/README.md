@@ -11,7 +11,7 @@
 ## Boot Screen Previews
 
 
-<img src="M1.jpg"
+<img src="M1.jpeg"
      alt="M1"
      style="float: left; margin-right: 10px;" />
 <img src="M2.jpeg"
