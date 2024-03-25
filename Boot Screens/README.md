@@ -1,6 +1,6 @@
 ## Boot Screens for Marauder
 
-<b>These custom boot screens for Marauder are ready to use except for "M1 & M2". M1 & M2 need to be reduced in file size by running them through Paint3D in microsoft or another app of your choice to reduce file size. All the images are in the correct size as far as width/height to generate the code needed for Assets.cpp file. </b>
+<b>These custom boot screens for Marauder are ready to use except for "M1 & M2". <br> M1 & M2 need to be reduced in file size by running them through Paint3D in microsoft or another app of your choice to reduce file size and just saving as jpeg again. This will give a hands on example so you know the process if the files are to large in file size. All the images are in the correct size as far as width/height to generate the code needed for Assets.cpp file. </b>
 
 ### Checkout <a href=https://github.com/smoochiee/esp32-Marauder-mod-CYD>smoochiee's tut</a>  to learn how to use these custom boot screens.  
 
