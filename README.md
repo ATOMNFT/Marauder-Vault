@@ -1,8 +1,6 @@
 ![Header](Images/mainheader.png)
 <br>
- <b>Looking to customize your wifi-Marauder boot screens, icons and gui colors? You have found the right repo! The process to use these resources is not a simple one, 
-<br>
- but it will allow you to have a custom wifi-marauder</b>
+ <b>Looking to customize your wifi-Marauder boot screens, icons and gui colors? You have found the right repo! The process to use these resources is not a simple one, but it will allow you to have a custom wifi-marauder</b>
  <hr>
 
 <b>Below you can find links to some great resources that have been put together by the great members of the marauder community!
