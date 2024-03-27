@@ -15,9 +15,9 @@ It is a suite of WiFi/Bluetooth offensive and defensive tools for the ESP32. You
 
 
 ## Wifi-Marauder Links.
-* [`The creator and genius behinde Wifi Marauder.](https://github.com/justcallmekoko/ESP32Marauder)
-* [`A wonderful Wiki for anything Marauder related.](https://github.com/justcallmekoko/ESP32Marauder/wiki)
-* [`Checkout some sweet build for sale by JustCallMeKoko.](https://www.tindie.com/stores/justcallmekoko/)
+* [The creator and genius behinde Wifi Marauder.](https://github.com/justcallmekoko/ESP32Marauder)
+* [A wonderful Wiki for anything Marauder related.](https://github.com/justcallmekoko/ESP32Marauder/wiki)
+* [Checkout some sweet build for sale by JustCallMeKoko.](https://www.tindie.com/stores/justcallmekoko/)
 
 
 
