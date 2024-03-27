@@ -10,17 +10,16 @@ A big thank you to each of you in this awesome community. None of this would be 
 
 <br>
 
-## What is Wifi-Marauder?
-It is a suite of WiFi/Bluetooth offensive and defensive tools for the ESP32. You can read more about Wifi-Marauder on the <a href="https://github.com/djsime1/awesome-flipperzero">about page</a>.
+ ## What is Wifi-Marauder?
+  It is a suite of WiFi/Bluetooth offensive and defensive tools for the ESP32. You can read more about Wifi-Marauder on the <a href="https://github.com/djsime1/awesome-flipperzero">about page</a>.
 
 
-## Wifi-Marauder Links.
-* [The creator and genius behinde Wifi Marauder.](https://github.com/justcallmekoko/ESP32Marauder)
-* [A wonderful Wiki for anything Marauder related.](https://github.com/justcallmekoko/ESP32Marauder/wiki)
-* [Checkout some sweet build for sale by JustCallMeKoko.](https://www.tindie.com/stores/justcallmekoko/)
-
-
-
+ ## Wifi-Marauder Links.
+  * [The creator and genius behinde Wifi Marauder.](https://github.com/justcallmekoko/ESP32Marauder)
+  * [A wonderful Wiki for anything Marauder related.](https://github.com/justcallmekoko/ESP32Marauder/wiki)
+  * [Checkout some sweet build for sale by JustCallMeKoko.](https://www.tindie.com/stores/justcallmekoko/)
+<br>
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
 
 <p align="left"> <a href="https://twitter.com/a_t_o_m_nft" target="blank"><img src="https://img.shields.io/twitter/follow/a_t_o_m_nft?logo=twitter&style=for-the-badge" alt="a_t_o_m_nft" /></a> </p>
