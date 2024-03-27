@@ -14,7 +14,7 @@
  ## Wifi-Marauder Links.
   * [The creator and genius behinde Wifi Marauder.](https://github.com/justcallmekoko/ESP32Marauder)
   * [A wonderful Wiki for anything Marauder related.](https://github.com/justcallmekoko/ESP32Marauder/wiki)
-  * [Checkout some sweet build for sale by JustCallMeKoko.](https://www.tindie.com/stores/justcallmekoko/)
+  * [Checkout some sweet builds for sale by JustCallMeKoko.](https://www.tindie.com/stores/justcallmekoko/)
 <br>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomnft&label=Profile%20views&color=0e75b6&style=flat" alt="atomnft" /> </p>
