@@ -3,10 +3,8 @@
 <br>
 
 ## Boot Screens for Marauder
-<b>These custom boot screens for Marauder are ready to use. All the images are in the correct size as far as width/height to generate the code needed for Assets.cpp file.</b>
-<br>
-<b>Use the link below to smoochiees tutorial and run the images through paint3D to reduce file sizes. You are looking for around 10-15kb file size on the image before running
-<br>
+<b>These custom boot screens for Marauder are ready to use. All the images are in the correct size as far as width/height to generate the code needed for Assets.cpp file.
+Use the link below to smoochiees tutorial and run the images through paint3D to reduce file sizes. You are looking for around 10-15kb file size on the image before running
 through the converter</b>
 
 <br>
