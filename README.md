@@ -8,7 +8,7 @@
 <br>
 
  ## What is Wifi-Marauder?
-  It is a suite of WiFi/Bluetooth offensive and defensive tools for the ESP32. You can read more about Wifi-Marauder on the <a href="https://github.com/djsime1/awesome-flipperzero">about page</a>.
+  It is a suite of WiFi/Bluetooth offensive and defensive tools for the ESP32. You can read more about Wifi-Marauder on the <a href="https://github.com/justcallmekoko/ESP32Marauder/wiki/about">about page</a>.
 
 
  ## Wifi-Marauder Links.
